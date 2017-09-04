@@ -1,0 +1,24 @@
+movies.csv
+（列）的含义介绍：
+
+id：标识号
+imdb_id：IMDB 标识号
+popularity：在 Movie Database 上的相对页面查看次数
+budget：预算（美元）
+revenue：收入（美元）
+original_title：电影名称
+cast：演员列表，按 | 分隔，最多 5 名演员
+homepage：电影首页的 URL
+director：导演列表，按 | 分隔，最多 5 名导演
+tagline：电影的标语
+keywords：与电影相关的关键字，按 | 分隔，最多 5 个关键字
+overview：剧情摘要
+runtime：电影时长
+genres：风格列表，按 | 分隔，最多 5 种风格
+production_companies：制作公司列表，按 | 分隔，最多 5 家公司
+release_date：首次上映日期
+vote_count：评分次数
+vote_average：平均评分
+release_year：发行年份
+budget_adj：根据通货膨胀调整的预算（2010 年，美元）
+revenue_adj：根据通货膨胀调整的收入（2010 年，美元）
